@@ -1,4 +1,4 @@
-# belajar-ai
+# Belajar-AI
 Assalamulaikum semua, ini khusus dokumentasi belajar ai yang saya pelajari menggunakan deepseet ai ,youtube &amp; sumber lainnya
 # Pastikan python 3. version ke atas
 # saya menggunakan OS Zorin OS 17.3 x86_64
