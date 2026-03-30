@@ -1,6 +1,6 @@
 # Belajar-AI
-Assalamulaikum semua, ini khusus dokumentasi belajar ai yang saya pelajari menggunakan deepseet ai ,youtube &amp; sumber lainnya
-#Spek Laptop
+Assalamulaikum semua, ini khusus dokumentasi belajar ai yang saya pelajari menggunakan deepseet ai ,youtube & sumber lainnya
+# Spek Laptop
 Pastikan python 3. version ke atas
 saya menggunakan OS Zorin OS 17.3 x86_64
 laptop 81H6 Lenovo ideapad 130-14IKB
@@ -62,7 +62,7 @@ pip install tqdm pillow opencv-python
 
 
 
-# Test Installasi
+# 1. est Installasi 
 Buat file test, pada folder yang tadi dibuat
 nano test_ai.py
 
@@ -93,8 +93,8 @@ python test_ai.py
 
 
 
-# Setup Jupyter Lab (IDE untuk AI)
-Jalankan Jupyter Lab pada terminal
+# 2. Setup Jupyter Lab (IDE untuk AI) 
+Jalankan Jupyter Lab pada terminal,nanti akan otomatis terbuka local host di browser
 jupyter lab
 
 Ini akan membuka browser otomatis. Jika tidak terbuka, buka browser dan ketik:
